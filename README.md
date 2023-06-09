@@ -171,7 +171,7 @@ List of practice sites
 </ul>
 
 
-# Awesome-CTS
+# 2
 A curated list of Capture The Signal CTF related stuff
 
 - [CTS home](https://cts.ninja/)
