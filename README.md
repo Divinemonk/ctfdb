@@ -1,5 +1,8 @@
 # CTF Database
-List of practice sites
+
+<br><br>
+
+## List of practice sites
 <ul>
   <li><a href="http://www.itsecgames.com/">bWAPP</a></li>
   <li><a href="https://cryptopals.com/">Cryptopals</a> - Cryptographic programming challenges</li>
@@ -36,20 +39,16 @@ List of practice sites
   <li><a href="https://github.com/cure53/XSSChallengeWiki/wiki">XSS Challenge Wiki</a></li>
 </ul>
 
----
 <ul>
   <li><a href="https://github.com/roya0045/Pentest-practice">Pentest-practice</a></li>
   <li><a href="http://captf.com/practice-ctf/">Practice CTF List</a></li>
 </ul>
 
----
-<h1>Practice CTF List / Permanant CTF List</h1>
+<br>
 
-<p>Here's a list of some CTF practice sites and tools or CTFs that are long-running. Thanks, RSnake for starting the original that this is based on. If you have any corrections or suggestions, feel free to email ctf at the domain psifertex with a dot com tld.</p>
 
 <h2>Live Online Games</h2>
 <h4>Recommended</h4>
-<p>Whether they're being updated, contain high quality challenges, or just have a lot of depth, these are probably where you want to spend the most time.</p>
 <ul>
 	<li><a href="http://pwnable.tw/">http://pwnable.tw/</a> (a newer set of high quality pwnable challenges)</li>
 	<li><a href="http://pwnable.kr/">http://pwnable.kr/</a> (one of the more popular recent wargamming sets of challenges)</li>
@@ -127,6 +126,9 @@ List of practice sites
 	<li><a href="http://heorot.net/">http://heorot.net/</a></li>
 </ul>
 
+
+<br>
+
 <h2>Downloadable Offline Games</h2>
 <ul>
 	<li><a href="http://www.badstore.net/">http://www.badstore.net/</a></li>
@@ -138,6 +140,9 @@ List of practice sites
 	<li><a href="https://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10">http://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10</a></li>
 </ul>
 
+
+<br>
+
 <h2>Virtual Machines</h2>
 <ul>
 	<li><a href="https://pentesterlab.com/exercises/">https://pentesterlab.com/exercises/</a></li>
@@ -145,58 +150,10 @@ List of practice sites
 	<li><a href="http://www.damnvulnerablelinux.org/">Damn Vulnerable Linux</a> (not currently live? local <a href="/mirror/damnvulnerablelinux.com/">mirror</a>) </li>
 </ul>
 
-<h3>Inactive or Gone</h3>
-<p>Just around for historical sake, or on the off-chance they come back.</p>
-<ul>
-	<li><a href="http://rootcontest.com/">http://rootcontest.com/</a></li>
-	<li><a href="http://intruded.net/">http://intruded.net/</a></li>
-	<li><a href="https://how2hack.net">https://how2hack.net</a></li>
-	<li><a href="https://www.mavensecurity.com/WebMaven.php">WebMaven (Buggy Bank)</a></li>
-	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmetravel.htm">http://www.foundstone.com/us/resources/proddesc/hacmetravel.htm</a></li>
-	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmebooks.htm">http://www.foundstone.com/us/resources/proddesc/hacmebooks.htm</a></li>
-	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmecasino.htm">http://www.foundstone.com/us/resources/proddesc/hacmecasino.htm</a></li>
-	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmeshipping.htm">http://www.foundstone.com/us/resources/proddesc/hacmeshipping.htm</a></li>
-	<li><a href="http://hackme.ntobjectives.com/">http://hackme.ntobjectives.com/</a></li>
-	<li><a href="http://testphp.acunetix.com/.asp">http://testphp.acunetix.com/</a></li>
-	<li><a href="http://testasp.acunetix.com/Default.asp">http://testasp.acunetix.com/Default.asp</a></li>
-	<li><a href="http://prequals.nuitduhack.com">http://prequals.nuitduhack.com</a></li>
-	<li><a href="http://www.gat3way.eu/index.php">http://www.gat3way.eu/index.php</a> (Russian)</li>
-	<li><a href="http://exploit-exercises.com/">http://exploit-exercises.com/</a> (challenges mirrored on vulnhub)</li>
-	<li><a href="http://damo.clanteam.com/">http://damo.clanteam.com/</a></li>
-	<li><a href="http://p6drad-teel.net/~windo/wargame/">http://p6drad-teel.net/~windo/wargame/</a></li>
-	<li><a href="http://roothack.org/">http://roothack.org/</a></li>
-	<li><a href="http://ha.ckers.org/challenge/">http://ha.ckers.org/challenge/</a></li>
-	<li><a href="http://ha.ckers.org/challenge2/">http://ha.ckers.org/challenge2/</a></li>
-	<li><a href="https://forensicswiki.org/wiki/DC3_Digital_Forensics_Challenge">http://www.dc3.mil/challenge/</a></li>
-</ul>
 
+<br>
 
-# 2
-A curated list of Capture The Signal CTF related stuff
-
-- [CTS home](https://cts.ninja/)
-- [CTS Intro](https://github.com/capturethesignal/cts-website/blob/master/bhusa2021/BHArsenal21_cts.pdf), BH2021, USA
-- [CTS tools](#CTS-Tools)
-  - [CTS client](#CTS-client)
-  - [How to run tools](#how-to-run-tools)
-  - [CTS server](#CTS-server)
-- [Write-ups](#Write-ups)
-  - [HWIO2020](#HWIO2020)
-  - [HWIO2021](#HWIO2021)
-  - [GRUcon 2021](#GRUcon-2021)
-  - [Non CTS](#Non-CTS)
-- [Software](#Software)
-- [Signals](#Signals)
-- [Links](#Links)
-
-- - -
-
-## CTS Tools
-
-There are different modes of CTS:
-* live, with SDR hardware;
-* signals capture via network: simulating SDR hardware via network. In this case you need to install and use CTS client;
-* CTS with already recorded signals (iq, wav etc).
+## Capture The Signal (CTS)
  
 ### CTS client
 
@@ -215,34 +172,8 @@ There are different modes of CTS:
 You may run you own server
 * [CTS backend](https://github.com/capturethesignal/cts-backend)
 
-## Write-ups
 
-### HWIO2020
-
-* [Digital Security](https://www.digital.security/en/blog/hardweario-capture-signal-write)
-* BatchDrake, [part 1](https://batchdrake.github.io/cts/) and [part 2](https://batchdrake.github.io/ctsII/)
-
-### HWIO2021
-
-* [BlackVS](https://github.com/BlackVS/CTFs/tree/master/HWIO2021/CTS)
-* [HydraBus](https://hydrabus.com/CTS/HWIO_2021_CTS_Signal5_solution_BVE_10July2021.pdf) + [here](https://hydrabus.com/CTS/)
-
-### GRUcon 2021
-
-* [BlackVS](https://github.com/BlackVS/CTFs/tree/master/GRUCon2021/)
-* [ElyKar](https://blog.tclaverie.eu/posts/grcon-2021---capture-the-signal/)
-
-### Non CTS
-RF signals challenges from other CTFs
-* [Trolling CTF players with gr-paint](https://irrational.net/2019/11/30/trolling-ctf-players-with-gr-paint/)
-* [Building a frequency hopping CTF challenge](https://irrational.net/2019/12/02/building-a-frequency-hopping-challenge/)
-* [What Lurks Below](https://github.com/mossmann/Writeups/tree/main/Google%20CTF%202020/What%20Lurks%20Below)
-* [Signal.dat](https://github.com/leony/CTF/blob/master/Radio%20Frequency/Signal.dat_Writeup.md)
-* [Terebeep](https://bolek42.github.io/ctf/2017-PlaidCTF/terebeep/README.html)
-* [RF CTF Software Defined Radio Challenges](https://github.com/rfhs/rfhs-wiki/wiki/RF-CTF-SoftwareDefinedRadio-Challenges)
-* [Hospital Under Siege 2021: Be still my beating heart](https://ctftime.org/writeup/29131)
-* [RF/MOBILE 100](https://gitlab.com/hacklabor/ctf/tmctf-writeup/-/blob/master/RF-Mobile-100/RF-Mobile100.md)
-
+<br>
 
 ## Software
 ### CTS used
@@ -267,6 +198,7 @@ RF signals challenges from other CTFs
 * [wctf-sdr-tools](https://github.com/rfhs/rfctf-sdr-tools), GNU Radio ZMQ Receivers
 * [Suscan](https://github.com/BatchDrake/suscan), is a realtime DSP processing library. It provides a set of useful abstractions to perform dynamic digital signal analysis and demodulation
 
+<br>
 
 ## Signals
 * [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
@@ -277,6 +209,8 @@ RF signals challenges from other CTFs
 ### Modulations
 * [FSK Demodulation in GNU Radio](https://wirelesspi.com/fsk-demodulation-in-gnu-radio/)
 * [Manually Decoding ASK PWM Signals from rtl_433 Signal I/Q Sample Files using Universal Radio Hacker](https://github.com/klohner/klohner.github.io/tree/master/SDR/Decoding/Example_2019-01-18)
+
+<br>
 
 ## Links
 ### GSM
@@ -289,11 +223,42 @@ RF signals challenges from other CTFs
 * [DTMF decoder](https://github.com/ribt/dtmf-decoder)
 * [DTMF Code](https://www.dcode.fr/dtmf-code)
 
+<br>
+
 ## Other RF/SDR Awesome lists
 * [RFSec-ToolKit V 2.0](https://github.com/cn0xroot/RFSec-ToolKit), is a collection of Radio Frequency Communication Protocol Hacktools which are from the github platform, and Hacking Tutorial from youtube、blog post, including SDR、2G GSM、3G 、4G LTE 、5G、NFC&RFID、ZigBee and so on.
+
+<br>
 
 ### Other
 * [GNU Radio-Companion Cook Book](https://cdn.hackaday.io/files/1648847054397056/GRC%20Cook%20Book.pdf), Tips, Tricks and Design Patterns
 * [CyberChef - The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 * [dCode](https://www.dcode.fr), is the universal site for decoding messages, cheating on letter games, solving puzzles, geocaches and treasure hunts, etc.
+
+
+<br>
+
+<h2>Inactive or Gone</h2>
+<ul>
+	<li><a href="http://rootcontest.com/">http://rootcontest.com/</a></li>
+	<li><a href="http://intruded.net/">http://intruded.net/</a></li>
+	<li><a href="https://how2hack.net">https://how2hack.net</a></li>
+	<li><a href="https://www.mavensecurity.com/WebMaven.php">WebMaven (Buggy Bank)</a></li>
+	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmetravel.htm">http://www.foundstone.com/us/resources/proddesc/hacmetravel.htm</a></li>
+	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmebooks.htm">http://www.foundstone.com/us/resources/proddesc/hacmebooks.htm</a></li>
+	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmecasino.htm">http://www.foundstone.com/us/resources/proddesc/hacmecasino.htm</a></li>
+	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmeshipping.htm">http://www.foundstone.com/us/resources/proddesc/hacmeshipping.htm</a></li>
+	<li><a href="http://hackme.ntobjectives.com/">http://hackme.ntobjectives.com/</a></li>
+	<li><a href="http://testphp.acunetix.com/.asp">http://testphp.acunetix.com/</a></li>
+	<li><a href="http://testasp.acunetix.com/Default.asp">http://testasp.acunetix.com/Default.asp</a></li>
+	<li><a href="http://prequals.nuitduhack.com">http://prequals.nuitduhack.com</a></li>
+	<li><a href="http://www.gat3way.eu/index.php">http://www.gat3way.eu/index.php</a> (Russian)</li>
+	<li><a href="http://exploit-exercises.com/">http://exploit-exercises.com/</a> (challenges mirrored on vulnhub)</li>
+	<li><a href="http://damo.clanteam.com/">http://damo.clanteam.com/</a></li>
+	<li><a href="http://p6drad-teel.net/~windo/wargame/">http://p6drad-teel.net/~windo/wargame/</a></li>
+	<li><a href="http://roothack.org/">http://roothack.org/</a></li>
+	<li><a href="http://ha.ckers.org/challenge/">http://ha.ckers.org/challenge/</a></li>
+	<li><a href="http://ha.ckers.org/challenge2/">http://ha.ckers.org/challenge2/</a></li>
+	<li><a href="https://forensicswiki.org/wiki/DC3_Digital_Forensics_Challenge">http://www.dc3.mil/challenge/</a></li>
+</ul>
 
