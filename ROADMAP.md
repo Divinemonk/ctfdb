@@ -1,5 +1,5 @@
 # CTF Training Roadmap
-> step-by-step, [30-day monthly timetable](#monthly-plan)
+> [topic detials](#a-step-by-step-roadmap-for-ctf-training), [30 day monthly timetable](#30-day-monthly-timetable)
 <br>
 
 ## A step-by-step roadmap for CTF training:
