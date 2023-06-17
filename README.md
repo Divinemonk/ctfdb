@@ -1,6 +1,6 @@
 # CTF Database
-> [CTF Training Roadmap & 30 day plan](ROADMAP.md)
-> [Top recommendations](TOP.md)
+- [CTF Training Roadmap & 30 day plan](ROADMAP.md)
+- [Top recommendations](TOP.md)
 
 <br><br>
 
