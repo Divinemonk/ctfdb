@@ -1,7 +1,7 @@
 
 # TOP list
-- Top 10 CTF learning platforms
-- Top CTF information platforms
+- [Top 10 CTF learning platforms](#top-10-ctf-learning-platforms)
+- [Top CTF information platforms](#top-ctf-information-platforms)
 
 
 <br>
